@@ -2,3 +2,4 @@ welcome to my lat
 git is a distributed version control system  is my love
 git is free software distributed under the GPL.
 git has a mutable index called stage
+git tracks changes

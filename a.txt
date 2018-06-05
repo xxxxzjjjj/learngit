@@ -1,1 +1,2 @@
-welcome to my xzj
+welcome to my jxz
+git is a distributed version control system
